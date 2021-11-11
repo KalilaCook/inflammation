@@ -3,3 +3,5 @@ Some text.
 Jane is a Data engineer and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
 We may need to bring a third person with Python programming skills into the project.
+
+We will still need a data scientist to help Samit implement their PCA and visualisation.
